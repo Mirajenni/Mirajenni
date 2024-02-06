@@ -1,7 +1,7 @@
 ### Hey! 👋
 
 I'm Jennifer Calazans, a lover of data. I'm currently working as a junior software engineer in an InfoSec enterprise.\
-Recently I'm looking for challenges in multiple languages, especially in Golang, so if you know some text me. XD
+I'm excited about challenges in multiple languages, especially in Golang, so if you know some text me. XD
 
 - 👯 I’m looking to collaborate on open-source projects or framework issues, u know?
 
