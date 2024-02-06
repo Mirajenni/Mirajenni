@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hey! 👋
 
+I'm Jennifer Calazans, a lover of data. I'm currently working as a junior software engineer in an InfoSec enterprise. Recently I'm looking for challenges in Golang, so if you know some text me. XD
 <!--
 **Mirajenni/Mirajenni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
